@@ -1,0 +1,30 @@
+body {
+    background-color: #00aeff
+}
+
+h1 {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 15pt;
+}
+
+h3 {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+.transit-type {
+    width: 380px;
+    height: 50px;
+    background-color: white;
+    justify-content: center;
+    position: absolute;
+}
